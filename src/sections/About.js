@@ -62,10 +62,10 @@ const About = () => {
               solve real-world problems.
             </p>
 
-            
+
             <p className="font-sans text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
               I enjoy exploring new technologies and adapting quickly to different tools and frameworks.
-              I thrive in team environments, love taking ownership of tasks, and deliver results on time.
+              I thrive in team environments and love taking ownership of tasks.
               Outside of coding, I enjoy reading, writing poems and blogs, and drawing — these creative
               hobbies keep me inspired, balanced, and help me bring fresh ideas to my work.
             </p>
